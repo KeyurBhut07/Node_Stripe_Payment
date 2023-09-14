@@ -1,0 +1,5 @@
+--> Stripe Payment
+
+1. Create A Customer API
+2. Create Add Card API
+3. Create Charges API
