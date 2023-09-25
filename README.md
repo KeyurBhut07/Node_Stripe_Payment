@@ -1,8 +1,5 @@
 # Node_Stripe_Payment
 
-Secret Key - sk_test_51JN0cxKmh6vjpSiP5UqeucAgjUFfQpjmpAwPeNa7MjafGOwshaRUDwwpITvkjgfoOzxZs3VxbxodbOEmKt5ptCVI007qmIqUPM
-Public Key - pk_test_51JN0cxKmh6vjpSiPBl7bNxHaPCoRz2Tjtkg7LhvRxmWPZbR1RssY96vvwgj1WukcETX9UHzc6f1XY28KbXEtwOy700KHON6mSi
-
 1. create-customer - name , email
 2. get-token of Card  
      "cardDetails": {
